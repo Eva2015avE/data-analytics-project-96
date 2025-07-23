@@ -1,0 +1,16 @@
+"visit_date","visitors_count","utm_source","utm_medium","utm_campaign","total_cost","leads_count","purchases_count","revenue"
+"2023-06-01",0,google,organic,,0,26,9,2418066
+"2023-06-01",130,yandex,cpc,freemium,21654,126,26,1726717
+"2023-06-01",96,yandex,cpc,prof-frontend,57138,91,15,1430340
+"2023-06-20",0,google,organic,,0,13,7,1076888
+"2023-06-01",82,yandex,cpc,prof-python,33026,81,12,954735
+"2023-06-02",0,google,organic,,0,15,7,746285
+"2023-06-12",0,google,organic,,0,9,5,729708
+"2023-06-05",0,google,organic,,0,19,6,619487
+"2023-06-01",97,vk,cpc,prof-python,2028,66,7,588004
+"2023-06-20",0,organic,organic,,0,9,4,554980
+"2023-06-01",126,vk,cpc,freemium-frontend,3160,82,9,552181
+"2023-06-01",37,yandex,cpc,base-python,12524,34,8,547928
+"2023-06-10",0,google,organic,,0,12,3,438170
+"2023-06-09",0,google,organic,,0,13,5,410124
+"2023-06-01",82,vk,cpc,prof-java,3115,50,3,383918
