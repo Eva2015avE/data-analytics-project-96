@@ -1,0 +1,16 @@
+"visit_date","visitors_count","utm_source","utm_medium","utm_campaign","total_cost","leads_count","purchases_count","revenue"
+2023-06-01,130,yandex,cpc,freemium,21654.0,130,26,1726717.0
+2023-06-01,96,yandex,cpc,prof-frontend,57138.0,96,15,1430340.0
+2023-06-01,82,yandex,cpc,prof-python,33026.0,82,12,954735.0
+2023-06-01,97,vk,cpc,prof-python,2028.0,66,7,588004.0
+2023-06-01,126,vk,cpc,freemium-frontend,3160.0,82,9,552181.0
+2023-06-01,37,yandex,cpc,base-python,12524.0,37,8,547928.0
+2023-06-01,82,vk,cpc,prof-java,3115.0,50,3,383918.0
+2023-06-01,61,yandex,cpc,prof-java,29490.0,61,5,355987.0
+2023-06-01,54,yandex,cpc,base-frontend,18061.0,54,4,322155.0
+2023-06-09,4,telegram,cpp,base-java,0.0,1,1,302384.0
+2023-06-20,3,telegram,cpp,base-java,0.0,1,1,302384.0
+2023-06-01,76,vk,cpc,prof-data-analytics,1072.0,56,5,253444.0
+2023-06-01,66,vk,cpc,freemium-python,980.0,45,3,249186.0
+2023-06-01,24,yandex,cpc,prof-professions-brand,4818.0,24,4,230307.0
+2023-06-01,17,yandex,cpc,prof-data-analytics,10086.0,17,2,220264.0
